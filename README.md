@@ -17,4 +17,4 @@ Author Course : [@Rohit Arora](https://author.skills.network/instructors/rohit_a
 [@Talha Siddiqui](https://author.skills.network/instructors/talha_siddiqui)
 
 ## Preview
-![Result](https://github.com/inipuadv1/Voice-Assistant-with-OpenAI/Screenshot 2024-03-01 154351.git)
+![Result](https://github.com/inipuadv1/Voice-Assistant-with-OpenAI/blob/main/Screenshot%202024-03-01%20154351.png)
